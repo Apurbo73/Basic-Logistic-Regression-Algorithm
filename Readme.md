@@ -78,4 +78,3 @@ These are the backbone for building, training, and deploying models:
 
 ---
 
-If you let me know your specific use case (e.g., NLP, vision, tabular data, reinforcement learning, etc.), I can give more tailored recommendations.
